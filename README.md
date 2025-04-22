@@ -122,6 +122,7 @@ slack-status-sync/
 │       ├── calendar.py
 │       └── slack.py
 ├── scripts/
+│   ├── com.slackstatussync.plist
 │   ├── manage_service.sh
 │   └── install_service.sh
 ├── logs/
